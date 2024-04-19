@@ -1,0 +1,9 @@
+name: LegendBan
+main: com.Legendban.main.Main
+version: 1.0
+author: RonaldoPHC
+
+commands:
+  ban:
+  unban:
+  infoban:
